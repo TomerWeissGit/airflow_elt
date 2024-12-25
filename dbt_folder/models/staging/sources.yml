@@ -1,0 +1,6 @@
+version: 2
+
+sources:
+  - name: SNOWFLAKE_AIRFLOW_DBT
+    tables:
+      - name: RAW_USERS
